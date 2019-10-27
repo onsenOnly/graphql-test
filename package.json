@@ -1,0 +1,21 @@
+{
+  "name": "u-test1",
+  "version": "1.0.0",
+  "description": "graphql test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "onsen",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.7",
+    "apollo-server-express": "^2.9.7",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "fetch": "^1.1.0",
+    "graphql": "^14.5.8",
+    "graphql-tools": "^4.0.5"
+  }
+}
